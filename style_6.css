@@ -81,7 +81,7 @@ form {
     width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    background: #e0e6f1 url("img/wrap_bg2.png") repeat-y 0 0;
+    background: #e0e6f1 url("https://www.typingstudy.com/img/wrap_bg2.png") repeat-y 0 0;
 }
 #left {
     float: left;
@@ -153,7 +153,7 @@ ul#menu_subitems li.submenu_new a {
 ul#menu_subitems {
     text-indent: 2px;
     list-style-position: outside;
-    list-style-image: url("img/menu_subitem.png");
+    list-style-image: url("https://www.typingstudy.com/img/menu_subitem.png");
     padding-left: 20px;
     margin: 2px 2px 2px 0;
 }
@@ -465,12 +465,12 @@ div.first-info {
     height: 73px;
 }
 #hand_left {
-    background: url("img/hand_left.png") no-repeat scroll center center;
+    background: url("https://www.typingstudy.com/img/hand_left.png") no-repeat scroll center center;
     width: 80px;
     height: 73px;
 }
 #hand_right {
-    background: url("img/hand_right.png") no-repeat scroll center center;
+    background: url("https://www.typingstudy.com/img/hand_right.png") no-repeat scroll center center;
     width: 80px;
     height: 73px;
 }
@@ -862,7 +862,7 @@ ul.graph li div.result {
     border: 1px solid #b0bdcc;
     padding: 2px 6px;
     background-color: #c2ffc9;
-    background-image: url("img/graph.png");
+    background-image: url("https://www.typingstudy.com/img/graph.png");
     background-repeat: repeat-y;
     background-position: 0 0;
     border-radius: 5px;
