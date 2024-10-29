@@ -275,7 +275,7 @@ div.first-info {
     min-height: 23px;
     padding: 8px 5px;
     letter-spacing: 2px;
-    line-height: 1.2em;
+    line-height: 1.2em; 
 }
 .dir_rtl {
     direction: rtl;
