@@ -267,15 +267,15 @@ div.first-info {
 
 /* typing */
 #text {
-    width: 714px;
     border: 2px solid #b0bdcc;
-    font-size: 28px;
+    font-size: 50px;
     margin-bottom: 3px;
     background-color: #f5fcfc;
     border-radius: 4px;
     min-height: 23px;
     padding: 8px 5px;
     letter-spacing: 2px;
+    line-height: 1.2em;
 }
 .dir_rtl {
     direction: rtl;
@@ -328,10 +328,9 @@ div.first-info {
 }
 
 #type {
-    width: 716px;
     height: 152px;
     padding: 5px;
-    font-size: 28px;
+    font-size: 50px;
     background-color: #fff;
     font-family: "Courier New", Courier, monospace;
     border-radius: 4px;
@@ -342,7 +341,6 @@ div.first-info {
 #counter {
     border: 1px solid #b0bdcc;
     padding: 3px 1px;
-    width: 724px;
     margin: 3px 0 4px 0;
     text-align: center;
     font-size: 10px;
